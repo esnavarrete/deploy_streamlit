@@ -1,2 +1,3 @@
-# deploy_streamlit
-Repo to practice deployment of a streamlit webapp
+# Little webapp using Netflix data
+
+Created for Tecnológico de Monterrey's Senior Data Scientist diploma
